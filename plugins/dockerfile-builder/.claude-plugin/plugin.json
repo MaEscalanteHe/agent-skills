@@ -1,0 +1,8 @@
+{
+  "name": "dockerfile-builder",
+  "description": "Generate optimized, secure multi-stage Dockerfiles with modern BuildKit features, language-specific patterns, and container security best practices",
+  "author": {
+    "name": "Manuel Escalante",
+    "email": "maescalantehe@gmail.com"
+  }
+}
