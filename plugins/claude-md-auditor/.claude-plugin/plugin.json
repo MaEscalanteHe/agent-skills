@@ -1,0 +1,8 @@
+{
+  "name": "claude-md-auditor",
+  "description": "Audit and improve CLAUDE.md files with quality scoring, targeted updates, and modern Claude Code feature recommendations",
+  "author": {
+    "name": "Manuel Escalante",
+    "email": "maescalantehe@gmail.com"
+  }
+}
