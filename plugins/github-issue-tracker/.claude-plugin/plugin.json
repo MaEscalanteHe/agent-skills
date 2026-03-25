@@ -1,0 +1,8 @@
+{
+  "name": "github-issue-tracker",
+  "description": "Track edge cases, TODOs, and deferred work as GitHub issues using the gh CLI, with duplicate detection, TODO file processing, and proactive suggestions",
+  "author": {
+    "name": "Manuel Escalante",
+    "email": "maescalantehe@gmail.com"
+  }
+}
