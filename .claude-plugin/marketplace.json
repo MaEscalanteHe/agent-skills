@@ -1,0 +1,30 @@
+{
+  "name": "skala-agent-skills",
+  "description": "A personal collection of agent skills for infrastructure and development workflows",
+  "owner": {
+    "name": "Manuel Escalante",
+    "email": "maescalantehe@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "terraform-conventions",
+      "description": "Write and review Terraform HCL following HashiCorp's official style conventions, with file organization, naming, security, and module best practices",
+      "source": "./plugins/terraform-conventions"
+    },
+    {
+      "name": "dockerfile-builder",
+      "description": "Generate optimized, secure multi-stage Dockerfiles with modern BuildKit features, language-specific patterns, and container security best practices",
+      "source": "./plugins/dockerfile-builder"
+    },
+    {
+      "name": "github-issue-tracker",
+      "description": "Track edge cases, TODOs, and deferred work as GitHub issues using the gh CLI, with duplicate detection, TODO file processing, and proactive suggestions",
+      "source": "./plugins/github-issue-tracker"
+    },
+    {
+      "name": "claude-md-auditor",
+      "description": "Audit and improve CLAUDE.md files with quality scoring, targeted updates, and modern Claude Code feature recommendations",
+      "source": "./plugins/claude-md-auditor"
+    }
+  ]
+}
