@@ -1,0 +1,8 @@
+{
+  "name": "terraform-conventions",
+  "description": "Write and review Terraform HCL following HashiCorp's official style conventions, with file organization, naming, security, and module best practices",
+  "author": {
+    "name": "Manuel Escalante",
+    "email": "maescalantehe@gmail.com"
+  }
+}
