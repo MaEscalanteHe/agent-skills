@@ -1,0 +1,8 @@
+{
+  "name": "context7",
+  "description": "Retrieve up-to-date, version-specific documentation and code examples for libraries, frameworks, and APIs by querying the Context7 REST API with curl (no API key required)",
+  "author": {
+    "name": "Manuel Escalante",
+    "email": "maescalantehe@gmail.com"
+  }
+}
