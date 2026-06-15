@@ -25,6 +25,22 @@
       "name": "claude-md-auditor",
       "description": "Audit and improve CLAUDE.md files with quality scoring, targeted updates, and modern Claude Code feature recommendations",
       "source": "./plugins/claude-md-auditor"
+    },
+    {
+      "name": "caveman",
+      "description": "Ultra-compressed communication mode that cuts token usage while keeping full technical accuracy, with lite, full, and ultra intensity levels",
+      "source": "./plugins/caveman"
+    },
+    {
+      "name": "playwright",
+      "description": "Browser automation and end-to-end testing via the Playwright MCP server — navigate, click, fill forms, take snapshots and screenshots, and drive a real browser",
+      "source": "./plugins/playwright"
+    },
+    {
+      "name": "context7",
+      "description": "Retrieve up-to-date, version-specific documentation and code examples for libraries, frameworks, and APIs by querying the Context7 REST API with curl (no API key required)",
+      "source": "./plugins/context7"
     }
   ]
 }
+
